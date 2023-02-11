@@ -1,0 +1,7 @@
+Create a Safe Attachment Policy for HR. Set to Block and redirect to admin email address
+Steps:
+1.	Go to Microsoft 365 Defender  Policies  select ‘Threat policies’
+2.	Select ‘safe attachments’   create new   give name
+3.	Select group ‘HR’ 
+4.	‘block- block current and future messages’ and enable redirect & give email id
+5.	Review & create
