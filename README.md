@@ -31,26 +31,33 @@ Lab consists of a create Safe Attachments Policy by using Microsoft Defender for
 <h3>Screenshots:</h3>
 
 <p align="center">
-Select Log Workspace Analytics:  <br/>
-<img src="select log workspace analytics.png" height="50%" width="50%" />
+Threat Policies:  <br/>
+<img src="policies & rules.png" height="50%" width="50%" />
 <br />
 <br />
-Select Query 'Failed Login Attempt' <br/>
-<img src="query.png" height="50%" width="50%" />
+<img src="safe attachments.png" height="50%" width="50%" />
 <br />
 <br />
-Select High Severity Active rule: <br/>
-<img src="active rules.png" height="50%" width="50%"/>
+Give a Name : <br/>
+<img src="create p.png" height="50%" width="50%"/>
 <br />
 <br />
-Enable Status: <br/>
-<img src="enable status of rule.png" height="65%" width="50%"/>
+Select 'HR' group: <br/>
+<img src="include groups.png" height="65%" width="50%"/>
+<br />
+<br />
+Policy Settings: <br/>
+<img src="settings.png" height="65%" width="50%"/>
+<br />
+<br />
+Review & Create: <br/>
+<img src="review.png" height="65%" width="50%"/>
 <br />
 <br />
 Result: <br/>
 <img src="result.png" height="65%" width="50%"/>
 <br />
-<br />
+<br /> 
 
 </p>
 
