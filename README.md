@@ -1,8 +1,8 @@
 # Safe-Attachments-Policy-using-Defender-for-Office-365
-Create a Safe Attachment Policy for HR. Set to Block and redirect to admin email address
+Create a Safe Attachment Policy for HR. Set to Block and redirect to admin email address.
 
 <h2>Description</h2>
-Lab consists of a create Safe Attachments Policy by using Microsoft Defender for Office 365. Safe Attachments protection for email messages is controlled by Safe Attachments policies. 
+Lab consists of a create Safe Attachments Policy by using Microsoft Defender for Office 365. Safe Attachments protection for email messages is controlled by Safe Attachments policies.  Safe Attachments is a feature in Microsoft Defender for Office 365 that uses a virtual environment to check attachments in inbound email messages after they've been scanned by anti-malware protection. 
 <br />
 
 
